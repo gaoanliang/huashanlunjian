@@ -6,6 +6,7 @@ public class HuaShanLunJian {
 		Integer a = 1;
 		Integer d = 2;
 		System.err.println(a.compareTo(d));
+		xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	}
 
 }
